@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A1_NFC</string>
+    <string name="lightType1_name">设置流水灯</string>
+    <string name="lightType2_name">设置跑马灯</string>
+    <string name="action_settings">Settings</string>
+    <string name="messageNFCStatmessageNFCStat">No Tag has contacted!</string>
+    <string name="lightType1">跑马灯</string>
+    <string name="lightType2">流水灯</string>
+    <string name="saveInTagButton">保存到标签</string>
+    <string name="initTagButton">初始化</string>
+    <string name="txDatStatic">数据</string>  
+    <string name="txAddrStatic">地址</string>  
+    <string name="rxDat">状态显示</string>
+    <string name="InputAddrPlease">请输入地址</string>
+    <string name="InputDatPlease">请输入数据</string>
+    <string name="butonRdFormTagRdFormTag">从标签读</string>
+    <string name="reDatStatic">Tag中的数据:</string>  
+    <string name="company">A1Semi</string>  
+    <string name="AccessTagPlease" > 请靠近标签 </string>
+    <string name="WriterDatToTag">写数据到标签</string>  
+    
+</resources>
